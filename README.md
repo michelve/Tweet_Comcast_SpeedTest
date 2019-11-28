@@ -7,9 +7,9 @@
         pip install python-oauth2
         pip install python-twitter
 
-### open the scrip and change the following:
+### open the script and change the following:
     remember to create the file data.csv
-    enter the full path to that file in USER_DATA_FILE_PARH
+    enter the full path to that file in USER_DATA_FILE_PATH
 
 ## How to use
 open terminal and run the following 'python /path/to/comcast_speedtest_twitter.py'
